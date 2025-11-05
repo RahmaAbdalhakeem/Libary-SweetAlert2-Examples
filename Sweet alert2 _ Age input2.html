@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sweet alert2 | Age <Input></Input></title>
+  <!--font Google-->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <style>
+    body{
+        font-family: "Playfair Display", serif;
+    }
+  </style>
+  </head>
+  <body>
+    
+  <!--Sweet alert 2 -->
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script>
+  Swal.fire({
+  title: "How old are you?",
+  icon: "question",
+  input: "range",
+  inputLabel: "Age",
+  inputAttributes: {
+    min: 15,
+    max: 100,
+    step: 1
+  },
+  inputValue: 20,
+});
+
+  </script>
+
+</body>
+</html>
