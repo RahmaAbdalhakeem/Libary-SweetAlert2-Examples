@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=7B1FA2&center=true&width=600&lines=SweetAlert2+Mini+Projects;Interactive+Inputs;Front-End+Practice">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=#FFDD00&center=true&width=600&lines=SweetAlert2+Mini+Projects;Interactive+Inputs;Front-End+Practice">
+
 
 </div>
 
