@@ -27,12 +27,6 @@ These projects are for **learning and practice purposes** only.
 
 ---
 
-## 🔗 Live Demo
-You can try the projects directly in your browser:  
-[🌐 SweetAlert2 Mini Projects](https://rahmaabdalhakeem.github.io/Personal-Portfolio/)  
-
----
-
 ## ⭐ Support
 If you like these mini projects, don’t forget to give them a ⭐ on GitHub!  
 [![GitHub stars](https://img.shields.io/github/stars/RahmaAbdalhakeem/Personal-Portfolio?style=social)](https://github.com/RahmaAbdalhakeem/Personal-Portfolio/stargazers)
